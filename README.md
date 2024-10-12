@@ -1,7 +1,7 @@
 # Author Website Built with Native WordPress Features
 
 ## Project Overview
-This is a custom website built for author Kirsimarja Hayrinen Besch, created entirely using native WordPress tools. The site is designed to showcase the author's works, biography, and blog in a clean and user-friendly way. Notably, the site is built without the use of any additional plugins, relying solely on WordPress's built-in features for a lightweight, streamlined setup.
+This is a custom website built for author Kirsimarja Hayrinen Beschloss, created entirely using native WordPress tools. The site is designed to showcase the author's works, biography, and blog in a clean and user-friendly way. Notably, the site is built without the use of any additional plugins, relying solely on WordPress's built-in features for a lightweight, streamlined setup.
 
 ## Features
 - **Customizable WordPress Theme**: The site employs a responsive theme tailored to the needs of an author, ensuring a professional online presence.
