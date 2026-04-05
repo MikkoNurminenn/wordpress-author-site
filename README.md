@@ -1,30 +1,37 @@
-# Author Website Built with Native WordPress Features
+# WordPress Author Site Case Study
 
-## Project Overview
-This is a custom website built for author Kirsimarja Hayrinen Beschloss, created entirely using native WordPress tools. The site is designed to showcase the author's works, biography, and blog in a clean and user-friendly way. Notably, the site is built without the use of any additional plugins, relying solely on WordPress's built-in features for a lightweight, streamlined setup.
+Custom author website for Kirsimarja Hayrinen Beschloss, built with native WordPress features instead of a plugin-heavy stack.
 
-## Features
-- **Customizable WordPress Theme**: The site employs a responsive theme tailored to the needs of an author, ensuring a professional online presence.
-- **Pages for Books, Biography, and Blog**: 
-  - A **Books** page highlighting published works.
-  - A **Biography** page offering a personal look at the author’s life and career.
-  - A **Blog** section for updates, articles, and insights from the author.
-- **No Plugins Used**: This website was developed entirely without plugins, showcasing how much can be achieved with WordPress's default capabilities.
-  
-## Technologies Used
-- **WordPress**: For site setup, theme customization, and all content management.
-  
-## Design & Implementation
-The focus was on simplicity and ease of maintenance, utilizing only WordPress's built-in features:
-- **Themes**: A minimalistic theme was customized to suit the author's brand and content style.
-- **Content Structure**: Pages and posts were organized to be intuitive and easy for visitors to navigate.
-- **Lightweight Setup**: Without plugins, the site remains lightweight and fast, optimized for an excellent user experience on both desktop and mobile devices.
+## Project goal
 
-## Live Demo
-Check out the live site here: [kirsimarjahayrinenbesch.com](https://kirsimarjahayrinenbesch.com)
+The aim of this project was to create a clean, maintainable author website that could highlight books, biography content, and blog updates without adding unnecessary operational complexity.
 
-## Future Enhancements
-The site is designed to grow with the author's needs. Future updates could include:
-- Integration of an eCommerce feature for direct book sales
-- A newsletter subscription option
-- Additional custom content sections as the author's portfolio expands
+## What was built
+
+- a responsive author website tailored to books, biography, and editorial content
+- a lightweight WordPress setup using built-in functionality rather than extra plugins
+- a content structure designed to be easy for the site owner to maintain over time
+
+## Why it matters
+
+This repo is less about custom application code and more about implementation choices:
+
+- keeping the stack simple
+- making the site easy to update
+- using native WordPress capabilities where they are already enough
+
+That makes it a useful case study in restraint as much as in delivery.
+
+## Tech
+
+- WordPress
+- custom theme configuration
+- native pages, posts, and content management flows
+
+## Live site
+
+[kirsimarjahayrinenbesch.com](https://kirsimarjahayrinenbesch.com)
+
+## Notes
+
+This project is presented as a portfolio case study rather than a framework-heavy codebase. The main value is in the implementation approach and the final published result.
