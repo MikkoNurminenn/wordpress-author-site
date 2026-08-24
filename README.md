@@ -35,3 +35,7 @@ That makes it a useful case study in restraint as much as in delivery.
 ## Notes
 
 This project is presented as a portfolio case study rather than a framework-heavy codebase. The main value is in the implementation approach and the final published result.
+
+The update-safe footer credit is versioned in `wordpress/mu-plugins`. Copy both
+the loader file and its `mikko-powered-by` asset directory to the live site's
+`wp-content/mu-plugins` directory when publishing the WordPress site.
